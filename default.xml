@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" revision="develop" upstream="develop" fetch="ssh://git@github.com/smipi1/" rebase="false"/>
+  <project remote="github" name="test-project-1" path="ws1"/>
+  <project remote="github" name="test-project-2" path="ws2"/>
+  <project remote="github" name="test-project-3" path="ws3"/>
+</manifest>
